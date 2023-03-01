@@ -1,0 +1,19 @@
+h1 {
+color: rgb(141, 11, 2);
+border: 5px solid black;
+border-radius: 100px;
+}
+body {
+background-color: red;
+}
+#text {
+    color: yellow;
+}
+.paragraph {
+    color: violet;
+}
+* {
+margin: 1;
+text-align: center;
+}
+/*dejo aca un comentario para tener la sintaxis propiamente/*
